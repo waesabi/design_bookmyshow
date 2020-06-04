@@ -19,7 +19,7 @@ Design BookMyShow
   </li>
   <li>
     If user select a movie , System should display all cinema running the
-    movie and shows
+    movie and respective shows
   </li>
   <li>
     User should be able to select a show at a particular cinema and book
@@ -48,4 +48,12 @@ Design BookMyShow
     User and Guest User can search movie by genre , release date, actor ,
     location
   </li>
+</ul>
+
+#### Actors 
+<ul>
+  <li>User</li>
+  <li>Guest User</li>
+  <li>Admin</li>
+  <li>System</li>       
 </ul>
