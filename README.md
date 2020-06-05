@@ -1,7 +1,9 @@
 ### Design BookMyShow
-Design BookMyShow 
+
+Design BookMyShow
 
 #### Use Case (Requirement)
+
 <ul>
 
   <li>
@@ -50,10 +52,14 @@ Design BookMyShow
   </li>
 </ul>
 
-#### Actors 
+#### Actors
+
 <ul>
   <li>User</li>
   <li>Guest User</li>
   <li>Admin</li>
   <li>System</li>       
 </ul>
+
+##### Use Case Diagram
+<img src="./Design%20BookMyShow.png" alt="Use Case Diagram">
