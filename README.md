@@ -61,5 +61,8 @@ Design BookMyShow
   <li>System</li>       
 </ul>
 
-##### Use Case Diagram
+#### Use Case Diagram
 <img src="./Design%20BookMyShow.png" alt="Use Case Diagram">
+
+#### Class Diagram 
+<img src="./uml.png" alt="Class Diagram">
